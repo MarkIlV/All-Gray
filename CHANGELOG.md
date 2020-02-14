@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "all-gray" extension will be documented in this file.
+0.0.1(2020-2-14)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- **All-Gary was created.**
