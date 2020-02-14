@@ -1,0 +1,26 @@
+{
+    "name": "all-gray",
+    "displayName": "All Gray",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "All Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/All Gray-color-theme.json"
+            },
+            {
+                "label": "All gray-light",
+                "uiTheme": "vs",
+                "path": "./themes/All gray-light-color-theme.json"
+            }
+        ]
+    }
+}
