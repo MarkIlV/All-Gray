@@ -1,14 +1,22 @@
 {
     "name": "all-gray",
-    "displayName": "All Gray",
-    "description": "",
+    "displayName": "All-Gray",
+    "description": "A colorful vscode theme",
     "version": "0.0.1",
+    "license": "MIT",
+    "publisher": "n0us",
     "engines": {
         "vscode": "^1.42.0"
     },
     "categories": [
         "Themes"
     ],
+    "homepage": "https://github.com/MarkIlV/All-Gray",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MarkIlV/All-Gray.git"        
+    },
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
