@@ -25,4 +25,4 @@ Tested with the following languages in native environment：
 
 ## Issue
 
-Note that this theme is just designed for fun right now
+Note that this theme is just designed for fun right now,**but I would appreciate it if you could find any problems and communicate with me.**
