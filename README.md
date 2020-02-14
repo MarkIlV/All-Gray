@@ -1,16 +1,28 @@
 # README
 
-## This is the README for your extension "all-gray"
+## All-Gray
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+![pic](Resources/pic.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## All-Gray-light
 
-### For more information
+![picc](Resources/picc.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Description
 
-**Enjoy!**
+All-Gray theme is just designed for good look，**Beauty is justice！**
+
+## Supported
+
+Tested with the following languages in native environment：
+
+- Python
+- HTML
+- CSS
+- Markdown
+- C/C++
+- JSON
+
+## Issue
+
+Note that this theme is just designed for fun right now
